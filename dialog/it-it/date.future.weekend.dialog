@@ -1,4 +1,2 @@
-il prossimo fine settimana sarà il {saturday_date}, e il {sunday_date}
-il prossimo weekend sarà il {saturday_date}, e il {sunday_date}
-il prossimo fine settimana andrà dal {saturday_date}, al {sunday_date}
-il prossimo weekend andrà dal {saturday_date}, al {sunday_date}
+il prossimo fine settimana andrà da {saturday_date}, a {sunday_date}
+il prossimo weekend andrà da {saturday_date}, a {sunday_date}
